@@ -16,7 +16,7 @@
 
 <a>CREDITS</a>
 ====
-"**Creater By:** Whayay" 
-modified By Wivernik
+**Creater By:** Whayay
+**modified By:** Wivernik
 
 
